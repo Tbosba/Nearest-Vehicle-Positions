@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nearest Vehicle Positions", "Nearest Vehicle Positions\Nearest Vehicle Positions.csproj", "{68EA6807-75E8-40FC-BCCA-4CDA3F2CD2E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68EA6807-75E8-40FC-BCCA-4CDA3F2CD2E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68EA6807-75E8-40FC-BCCA-4CDA3F2CD2E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68EA6807-75E8-40FC-BCCA-4CDA3F2CD2E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68EA6807-75E8-40FC-BCCA-4CDA3F2CD2E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46A6C4CA-A5EA-4996-B6CE-37556CE3FFED}
+	EndGlobalSection
+EndGlobal
